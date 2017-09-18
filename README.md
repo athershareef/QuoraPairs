@@ -1,0 +1,2 @@
+# QuoraPairs
+Quora is a platform where people post questions and connect with people who can share their insights. To make it effective, a suggested approach was to limit the users in posting questions which are like the existing questions. Thereby providing a better experience to the seekers as well as the writers. The goal of this project is to use Machine learning techniques to predict whether two given questions have the same meaning and provide the probability of them being duplicates
